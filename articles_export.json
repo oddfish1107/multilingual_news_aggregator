@@ -4222,5 +4222,357 @@
         "date": null,
         "category": "News",
         "sentiment_score": 0.0
+    },
+    {
+        "title": "Bên trong nhà máy trực thăng hàng đầu thế giới tại Kazan",
+        "content": "Nhà máy Trực thăng Kazan được đánh giá là một trong những cơ sở chế tạo trực thăng lớn nhất thế giới với hơn 12.000 phi cơ đã xuất xưởng.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Nhân chứng kể khoảnh khắc phá cửa máy bay cứu người trên cao tốc Mỹ",
+        "content": "Chứng kiến máy bay cỡ nhỏ đâm đổ cột đèn rồi gãy làm đôi, bốc cháy bên cao tốc, Garza dừng xe, lao vào phá cửa cứu người.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Những điểm mấu chốt trong thỏa thuận hòa bình Mỹ - Iran",
+        "content": "Mỹ - Iran nhất trí ngừng bắn, mở lại eo biển Hormuz trong 60 ngày để đàm phán thêm về hạt nhân và lệnh trừng phạt, hướng tới thỏa thuận dài hạn.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Cơn sốt hàng bãi Nhật ở châu Á",
+        "content": "Các doanh nghiệp Nhật Bản đang tích cực thu gom đồ cũ và xuất khẩu ra nước ngoài như Thái Lan, Malaysia, hay Kazakhstan.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Cổ động viên phản đối luật nghỉ tiếp nước tại World Cup",
+        "content": "Nhiều cổ động viên phản đối luật nghỉ tiếp nước lần đầu được áp dụng tại World Cup, vì cho rằng quy định làm đứt mạch trận đấu.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Khoảnh khắc Tổng thống Trump ký thỏa thuận với Iran",
+        "content": "Quan chức Nhà Trắng đăng video ghi lại giây phút Tổng thống Trump ký văn bản thỏa thuận với Iran, hướng đến chấm dứt xung đột giữa hai nước.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Iran tuyên bố sẽ thu phí qua eo biển Hormuz",
+        "content": "Trưởng phái đoàn đàm phán Iran khẳng định nước này sẽ thu phí tàu thuyền qua eo biển Hormuz sau khi hết hạn 60 ngày miễn phí theo bản ghi nhớ với Mỹ.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "'Lời nguyền World Cup' châm ngòi cuộc đấu chính trị ở Italy",
+        "content": "Sau cú sốc vắng mặt ở World Cup lần thứ ba liên tiếp, bóng đá Italy trở thành tâm điểm cuộc đấu quyền lực giữa chính phủ và giới lãnh đạo thể thao.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Tổng thống Mỹ - Iran ký thỏa thuận hòa bình",
+        "content": "Giới chức Mỹ và Iran xác nhận Tổng thống hai nước đã ký thỏa thuận hướng đến chấm dứt chiến sự đã kéo dài gần 4 tháng.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Phép thử 60 ngày với quyết tâm hòa bình Mỹ - Iran",
+        "content": "Sau thỏa thuận sơ bộ chấm dứt giao tranh, Mỹ - Iran bước vào 60 ngày đàm phán đầy rủi ro để giải quyết những vấn đề gai góc nhất.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Quá trình Mỹ vượt ngờ vực để đạt thỏa thuận với Iran",
+        "content": "Dù còn hoài nghi về cam kết của Iran, các quan chức Mỹ đều thống nhất rằng vẫn phải ký thỏa thuận vì sau cùng, cuộc chiến cần khép lại.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Iran sẽ rước linh cữu cố lãnh tụ Ali Khamenei qua Iraq",
+        "content": "Thị trưởng Tehran cho biết linh cữu cố lãnh tụ tối cao Ali Khamenei sẽ được rước qua Iraq trước lễ chôn cất tại Iran vào đầu tháng 7.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Thủ tướng đề nghị doanh nhân Việt tại Nga phát huy vai trò cầu nối kinh tế",
+        "content": "Thủ tướng Lê Minh Hưng gặp kiều bào tại Kazan, kêu gọi các doanh nhân trở thành cầu nối đưa hàng Việt vào thị trường Nga và Liên minh Kinh tế Á - Âu.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Ông Trump dọa tiếp tục ném bom nếu Iran không 'biết điều'",
+        "content": "Tổng thống Trump tuyên bố sẵn sàng tái khởi động các cuộc không kích nếu Iran không \"biết điều\" sau khi hai nước đạt thỏa thuận sơ bộ.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Giá nhà tăng mạnh tại 'thủ phủ hàng giá rẻ' của Mỹ",
+        "content": "Giá nhà tại vùng tây bắc Arkansas, nơi được coi là \"thủ phủ hàng giá rẻ\" của Mỹ, đã tăng 60% trong 5 năm qua, phản ánh đà phát triển nhanh của khu vực.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Những gia đình Mỹ 'thắt lưng buộc bụng' vì thu không đủ chi",
+        "content": "Khi chồng bị mất việc trong giai đoạn đại dịch, Rachel Negro-Henderson quyết định thắt lưng buộc bụng bằng cách chuyển sang mua sắm thường xuyên tại chuỗi siêu thị giá rẻ Aldi.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Thủ tướng tham quan trực thăng, xe tải tại triển lãm ở Tatarstan",
+        "content": "NgaThủ tướng Lê Minh Hưng tham quan các phương tiện công nghệ cao như xe tải KAMAZ, trực thăng, UAV tại triển lãm \"Made in Tatarstan\" ở Kazan.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Hoài nghi về ý tưởng 'dùng người Syria đánh Hezbollah' của ông Trump",
+        "content": "Ý tưởng của ông Trump về việc để Syria đối phó Hezbollah tại Lebanon vấp phải hoài nghi, do tiềm ẩn hệ lụy liên quan chính trị và tôn giáo.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Ông Trump nói đùa 'tôi là sếp' khi đến muộn cuộc họp của G7",
+        "content": "Tổng thống Trump hài hước tuyên bố \"tôi là sếp\", dường như để giải thích lý do ông đến muộn một cuộc họp tại hội nghị thượng đỉnh G7 ở Pháp.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Báo Đức xác minh ảnh cổ động viên giống Hitler tại World Cup",
+        "content": "Báo Đức kiểm chứng bức ảnh lan truyền trên mạng xã hội chụp một cổ động viên giống Adolf Hitler và kết luận đây là ảnh giả.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Truyền thông Mỹ tiết lộ 14 điểm trong thỏa thuận với Iran",
+        "content": "Truyền thông Mỹ đăng nội dung thỏa thuận mà nước này sắp ký với Iran, trong đó nhiều điểm tương đồng so với phiên bản từ phía Tehran.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Mỹ dùng AI của Elon Musk trong chiến dịch tấn công Iran",
+        "content": "Chính phủ Mỹ xác nhận Lầu Năm Góc đã sử dụng AI Grok trong chiến dịch tấn công Iran, song không nêu rõ trong nhiệm vụ cụ thể nào.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Trực thăng lai không người lái Trung Quốc bắt đầu bay thử",
+        "content": "Trung Quốc thử nghiệm nguyên mẫu R6000, trực thăng lai không người lái có kích thước lớn với cánh quạt xoay tương tự phi cơ MV-75A Mỹ.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Người Nhật nổi giận vì ông Trump mượn 'báu vật anime' làm chính trị",
+        "content": "Việc Tổng thống Trump và chính quyền Mỹ thường xuyên dùng hình ảnh hoạt hình Nhật Bản trên mạng đang tạo ra một làn sóng phản đối trong công chúng nước này.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "CĐV Scotland 'càn quét' quán bar ở Boston",
+        "content": "CĐV Scotland uống sạch rượu bia tại các hàng quán ở thành phố Boston, khi tập trung tại đây để cổ vũ đội nhà thi đấu World Cup.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Cảnh sát Mỹ bắn vào xe, bé một tuổi thiệt mạng",
+        "content": "MỹCảnh sát Mississippi truy bắt nghi phạm trộm cắp và nổ súng khi tài xế không dừng xe, khiến bé một tuổi bên trong thiệt mạng.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Cường kích Su-24 Ukraine rơi, hai phi công thiệt mạng",
+        "content": "Chiến đấu cơ Su-24M Ukraine gặp nạn khi làm nhiệm vụ ở tỉnh Khmelnytsky, khiến hai thành viên tổ lái thiệt mạng, chưa rõ nguyên nhân.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Tàu dầu Iran rời khu vực bị Mỹ phong tỏa",
+        "content": "Ba tàu chở dầu Iran rời khu vực vùng Vịnh vốn bị hải quân Mỹ phong tỏa, đánh dấu lô dầu thô xuất khẩu đầu tiên của Tehran trong hai tháng qua.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Cú trượt dài vào vòng lao lý của con riêng Thái tử phi Na Uy",
+        "content": "Marius Borg Hoiby được đón nhận vào hoàng gia Na Uy dù là con riêng của Thái tử phi, tuy nhiên, anh ta đã trượt dài vào ma túy và phạm tội cưỡng hiếp.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Thế lưỡng nan với ông Netanyahu khi Mỹ - Iran đạt thỏa thuận",
+        "content": "Thỏa thuận Mỹ - Iran đẩy Thủ tướng Israel Netanyahu vào thế khó, khi ông phải đối mặt sức ép từ cả đối thủ lẫn đồng minh ngay trước cuộc bầu cử.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Quan chức Nga đề nghị Việt Nam xem xét mở Tổng lãnh sự quán tại Kazan",
+        "content": "Lãnh đạo Cộng hòa Tatarstan thuộc Nga gặp Thủ tướng Lê Minh Hưng, đề xuất Việt Nam xem xét mở Tổng lãnh sự quán tại thành phố Kazan.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Cách người dân thành phố Mỹ chào đón tuyển Algeria 'như đội nhà'",
+        "content": "Tuyển Algeria được hàng trăm người dân Lawrence đội mưa chào đón, khi đội bóng Bắc Phi chọn thành phố này làm đại bản doanh.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Tình báo Mỹ lo ngại Iran 'có thể đóng Hormuz bất cứ lúc nào'",
+        "content": "Tình báo Mỹ đánh giá Iran đã có khả năng phong tỏa Hormuz bất cứ thời điểm nào, công cụ gây sức ép hiệu quả hơn cả bom hạt nhân, theo CNN.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Hộ vệ hạm Nga bắn cảnh cáo du thuyền Anh",
+        "content": "Tàu hộ vệ Đô đốc Grigorovich nổ súng cảnh cáo du thuyền Anh \"có hành động tiếp cận nguy hiểm\", sự việc không gây thiệt hại.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Ông Vance nêu điều kiện để Iran nhận quỹ tái thiết 300 tỷ USD",
+        "content": "Ông Vance cho hay Iran sẽ chỉ nhận được 300 tỷ USD tái thiết theo thỏa thuận hòa bình nếu nước này \"tự thay đổi toàn diện\".",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Mỹ công bố lý do máy bay đánh rơi cần tiếp dầu khi hỗ trợ F-22",
+        "content": "Không quân Mỹ cho biết sai sót của người điều khiển trên máy bay KC-46A và F-22 đã dẫn đến sự cố gãy cần tiếp dầu hồi năm ngoái.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Cuộc 'giải cứu' châm ngòi tranh cãi về việc đi lại của CĐV World Cup",
+        "content": "MỹCơ quan giao thông New Jersey khoe việc cảnh sát dùng xe chở hai CĐV lỡ tàu tới sân xem World Cup, gây tranh cãi về năng lực vận chuyển tại giải đấu.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Nghị sĩ Mỹ kêu gọi cấp visa cho mẹ thủ môn Cape Verde đến World Cup",
+        "content": "Lãnh đạo phe Dân chủ tại Hạ viện kêu gọi Ngoại trưởng Rubio tạo điều kiện để mẹ thủ môn Cape Verde đến Mỹ xem con trai thi đấu.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Mỹ chặn âm mưu tấn công sự kiện võ thuật ở Nhà Trắng",
+        "content": "FBI tuyên bố đã chặn kế hoạch tấn công bằng drone, súng bắn tỉa nhằm vào sự kiện UFC Freedom 250 diễn ra ở Nhà Trắng hôm 14/6.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Nỗi sợ hóa đơn tiền điện mùa hè ở Mỹ",
+        "content": "Kevin Martin, 19 tuổi, đã chuẩn bị một khoản tiền để sống tự lập, không phụ thuộc vào bố mẹ, nhưng anh không ngờ kế hoạch đổ bể vì chi phí điều hòa tăng vọt.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Hàn Quốc đề nghị ông Trump dẫn dắt hòa giải với Triều Tiên",
+        "content": "Gặp bên lề hội nghị G7, Tổng thống Hàn Quốc đề nghị Tổng thống Mỹ đóng vai trò dẫn dắt nỗ lực giải quyết hòa bình vấn đề Triều Tiên.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Áp lực kinh tế đeo bám ông Trump sau thỏa thuận với Iran",
+        "content": "Dù Washington - Tehran đã đạt thỏa thuận sơ bộ, áp lực với kinh tế Mỹ vẫn chưa thể giảm ngay lập tức và điều này đang gây khó cho Tổng thống Trump.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Iran dọa 'phản ứng gay gắt' nếu Israel tiếp tục tấn công Lebanon",
+        "content": "Iran cảnh báo sẽ đáp trả Israel nếu Tel Aviv không ngừng tập kích Lebanon, sau khi 4 người ở nước này thiệt mạng bởi hỏa lực của Israel.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
+    },
+    {
+        "title": "Cuộc đua để ông Trump chốt thỏa thuận Mỹ - Iran",
+        "content": "Quyết liệt ngăn chặn các ngòi nổ xung đột phút chót, Tổng thống Trump đã chạy đua với thời gian để có thể chốt thỏa thuận đầy kịch tính giữa Mỹ và Iran.",
+        "source": "VnExpress",
+        "date": null,
+        "category": "News",
+        "sentiment_score": 0.0
     }
 ]
