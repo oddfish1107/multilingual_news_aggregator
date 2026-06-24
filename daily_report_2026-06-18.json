@@ -1,0 +1,11 @@
+{
+    "report_date": "2026-06-18",
+    "total_articles": 143,
+    "average_sentiment": 0.0038,
+    "sources_analyzed": 1,
+    "sentiment_breakdown": {
+        "positive": 4,
+        "neutral": 139,
+        "negative": 0
+    }
+}
