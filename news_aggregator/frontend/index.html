@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multilingual News Aggregator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Syncopate:wght@400;700&family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="dashboard">
+        <!-- Top Half (Light, Brutalist) -->
+        <section class="top-section">
+            <header>
+                <div class="logo">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8l-4 4v16a2 2 0 0 0 2 2z"></path></svg>
+                    <span>GLOBAL NEWS HUB</span>
+                </div>
+                <div class="live-indicator">
+                    <span class="dot"></span> LIVE DATA SYNC
+                </div>
+            </header>
+            
+            <div class="hero-stats">
+                <div class="stat-block">
+                    <span class="stat-label">TOTAL ARTICLES</span>
+                    <h1 class="stat-value" id="total-articles">00</h1>
+                </div>
+                <div class="stat-block">
+                    <span class="stat-label">ACTIVE SOURCES</span>
+                    <h1 class="stat-value" id="total-sources">00</h1>
+                </div>
+            </div>
+
+            <div class="world-times">
+                <div class="time-item"><span>VNEXPRESS</span><span class="status active">SYNCING</span></div>
+                <div class="time-item"><span>BBC</span><span class="status active">SYNCING</span></div>
+                <div class="time-item"><span>CNN</span><span class="status standby">STANDBY</span></div>
+                <div class="time-item"><span>REUTERS</span><span class="status standby">STANDBY</span></div>
+            </div>
+        </section>
+
+        <!-- Bottom Half (Dark, Photo Background) -->
+        <section class="bottom-section" id="bottom-section">
+            <div class="section-title">
+                <h2>LATEST FEED</h2>
+                <div class="date-container">
+                    <span class="location">HA NOI, VIETNAM</span>
+                    <span class="date" id="current-date">Sunday April 21</span>
+                </div>
+            </div>
+            
+            <div class="articles-grid" id="articles-container">
+                <!-- JS will inject article cards here -->
+            </div>
+        </section>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
